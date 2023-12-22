@@ -4,7 +4,7 @@ Script spam call versi 1.0
 <details open><summary><code>Perintah Script?</code></summary>
 
 ```bash
-$ git clone https://github.com/ZynnBoy01/Spamcall
+$ git clone https://github.com/Bujis/Spamcalll
 $ cd Spamcall
 $ bash Run.sh
 ```
