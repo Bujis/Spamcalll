@@ -1,5 +1,5 @@
 # Spamcall
-Script spam call versi 1.0
+Script spam call versi 3.0
 
 <details open><summary><code>Perintah Script?</code></summary>
 
